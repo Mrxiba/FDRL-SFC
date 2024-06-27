@@ -1,2 +1,2 @@
 # FDRL-SFC
-This repository is for federated transfer component analysis
+This repository is for FDRL+SFC
